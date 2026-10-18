@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-18",
+  "targets": {
+    "kcal": 2600,
+    "protein_g": 120,
+    "fat_g": 60,
+    "carbs_g": 390
+  },
+  "bodyweight_kg": null,
+  "trained": false,
+  "workouts": [],
+  "meals": [],
+  "totals": {
+    "kcal": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 0
+  },
+  "leftover": {
+    "kcal": 2600,
+    "protein_g": 120,
+    "fat_g": 60,
+    "carbs_g": 390
+  },
+  "notes": "迁移自 logs/2026-10-18.md：当天还没有训练日程和餐次。"
+}
