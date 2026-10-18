@@ -10,18 +10,59 @@
   "bodyweight_kg": null,
   "trained": false,
   "workouts": [],
-  "meals": [],
+  "meals": [
+    {
+      "id": "test",
+      "name": "西红柿炒蛋 + 芹菜 + 杂粮馒头",
+      "time": null,
+      "source": "chat-photo-estimate",
+      "photos_in_chat": true,
+      "leftover_note": "仅有吃前照片，按全吃估算",
+      "items": [
+        {
+          "food": "西红柿炒蛋",
+          "amount": "估 2 蛋 + 番茄约 250g + 油约 10g",
+          "kcal": 295,
+          "protein_g": 18,
+          "fat_g": 22,
+          "carbs_g": 7
+        },
+        {
+          "food": "芹菜茎",
+          "amount": "约 80g",
+          "kcal": 16,
+          "protein_g": 2,
+          "fat_g": 0,
+          "carbs_g": 2
+        },
+        {
+          "food": "杂粮馒头",
+          "amount": "约 90g",
+          "kcal": 212,
+          "protein_g": 7,
+          "fat_g": 1,
+          "carbs_g": 45
+        }
+      ],
+      "totals": {
+        "kcal": 523,
+        "protein_g": 27,
+        "fat_g": 23,
+        "carbs_g": 54
+      }
+    }
+  ],
   "totals": {
-    "kcal": 0,
-    "protein_g": 0,
-    "fat_g": 0,
-    "carbs_g": 0
+    "kcal": 523,
+    "protein_g": 27,
+    "fat_g": 23,
+    "carbs_g": 54
   },
   "leftover": {
-    "kcal": 2600,
-    "protein_g": 120,
-    "fat_g": 60,
-    "carbs_g": 390
+    "kcal": 2077,
+    "protein_g": 93,
+    "fat_g": 37,
+    "carbs_g": 336
   },
-  "notes": "迁移自 logs/2026-10-18.md：当天还没有训练日程和餐次。"
+  "notes": "estimate_uncertainty: oil and bun size ±15%"
 }
