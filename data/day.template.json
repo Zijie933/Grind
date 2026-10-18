@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "date": "YYYY-MM-DD",
+  "targets": {
+    "kcal": 2600,
+    "protein_g": 120,
+    "fat_g": 60,
+    "carbs_g": 390
+  },
+  "bodyweight_kg": null,
+  "trained": false,
+  "workouts": [],
+  "meals": [],
+  "totals": {
+    "kcal": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 0
+  },
+  "leftover": {
+    "kcal": 2600,
+    "protein_g": 120,
+    "fat_g": 60,
+    "carbs_g": 390
+  },
+  "notes": ""
+}
