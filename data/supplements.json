@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "current_id": "yeast-protein-powder",
+  "items": [
+    {
+      "id": "yeast-protein-powder",
+      "name": "酵母蛋白粉",
+      "type": "yeast protein powder",
+      "type_zh": "酵母蛋白",
+      "category": "endurance sports nutrition food",
+      "category_zh": "耐力类运动营养食品",
+      "per_100g": {
+        "energy_kj": 1559,
+        "kcal": 373,
+        "protein_g": 75.0,
+        "fat_g": 4.0,
+        "carb_g": 8.0,
+        "sodium_mg": 100
+      },
+      "typical_scoop_g": 30,
+      "typical_scoop_g_confirmed": false,
+      "per_typical_scoop": {
+        "energy_kj": 467.7,
+        "kcal": 112,
+        "protein_g": 22.5,
+        "fat_g": 1.2,
+        "carb_g": 2.4,
+        "sodium_mg": 30
+      },
+      "ingredients": [
+        "酵母蛋白粉≥95.2%",
+        "flavor",
+        "coconut powder",
+        "guar gum",
+        "mung bean paste powder",
+        "vitamins B1/B2",
+        "CMC-Na",
+        "salt",
+        "sucralose",
+        "silicon dioxide"
+      ],
+      "ingredients_zh": [
+        "酵母蛋白粉≥95.2%",
+        "香精",
+        "椰子粉",
+        "瓜尔胶",
+        "绿豆沙粉",
+        "维生素B1/B2",
+        "羧甲基纤维素钠（CMC-Na）",
+        "食用盐",
+        "三氯蔗糖",
+        "二氧化硅"
+      ],
+      "notes": [
+        "no creatine",
+        "no preworkout blend",
+        "not for infants/pregnancy (N/A for this user)"
+      ]
+    }
+  ]
+}
