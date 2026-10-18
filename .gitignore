@@ -1,0 +1,10 @@
+# Meal photos — keep local, do not commit
+photos/
+meals/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.heic
+*.heif
+*.webp
