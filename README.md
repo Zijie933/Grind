@@ -1,6 +1,6 @@
 # Grind
 
-每日权威数据：`data/days/YYYY-MM-DD.json`（当天训练 + 饮食 + 合计）。字段说明见 [docs/schema.md](docs/schema.md)。餐次照片不进 git。
+每日权威数据：`data/days/YYYY-MM-DD.json`（当天训练 + 饮食 + 合计）。字段说明见 [docs/schema.md](docs/schema.md)。当前训练计划（尚未设定）：[data/training-plan.md](data/training-plan.md)。餐次照片不进 git。
 
 ## 如何同步这份仓库
 
