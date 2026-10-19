@@ -153,7 +153,7 @@
       "time": null,
       "source": "text-estimate",
       "photos_in_chat": false,
-      "leftover_note": "吃完",
+      "leftover_note": "吃完；欧包按包装标签净含量 85 g 计",
       "items": [
         {
           "food": "香蕉",
@@ -165,32 +165,32 @@
         },
         {
           "food": "碧翠园 咸蛋黄肉松软欧包",
-          "amount": "约 100 g",
-          "kcal": 281,
-          "protein_g": 12,
-          "fat_g": 5,
-          "carbs_g": 44
+          "amount": "净含量 85 g",
+          "kcal": 280,
+          "protein_g": 8.3,
+          "fat_g": 6.5,
+          "carbs_g": 45.2
         }
       ],
       "totals": {
-        "kcal": 386,
-        "protein_g": 13,
-        "fat_g": 5,
-        "carbs_g": 70
+        "kcal": 385,
+        "protein_g": 9.3,
+        "fat_g": 6.5,
+        "carbs_g": 71.2
       }
     }
   ],
   "totals": {
-    "kcal": 2672,
-    "protein_g": 135,
-    "fat_g": 103,
-    "carbs_g": 303
+    "kcal": 2671,
+    "protein_g": 131.3,
+    "fat_g": 104.5,
+    "carbs_g": 304.2
   },
   "leftover": {
-    "kcal": -72,
-    "protein_g": -15,
-    "fat_g": -43,
-    "carbs_g": 87
+    "kcal": -71,
+    "protein_g": -11.3,
+    "fat_g": -44.5,
+    "carbs_g": 85.8
   },
   "notes": ""
 }
