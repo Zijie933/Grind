@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-19",
+  "targets": {
+    "kcal": 2600,
+    "protein_g": 120,
+    "fat_g": 60,
+    "carbs_g": 390
+  },
+  "bodyweight_kg": null,
+  "trained": false,
+  "workouts": [],
+  "meals": [
+    {
+      "id": "breakfast",
+      "name": "早餐",
+      "time": null,
+      "source": "text-order",
+      "photos_in_chat": false,
+      "leftover_note": "按所述吃完（拿铁已按 90% 计入）",
+      "items": [
+        {
+          "food": "肯德基芝士鸡肉帕尼尼",
+          "amount": "正常款，120g",
+          "kcal": 320,
+          "protein_g": 17,
+          "fat_g": 14,
+          "carbs_g": 29
+        },
+        {
+          "food": "肯德基中杯无糖拿铁",
+          "amount": "喝了 90%（按全脂鲜奶约 315 ml）",
+          "kcal": 200,
+          "protein_g": 10,
+          "fat_g": 11,
+          "carbs_g": 15
+        }
+      ],
+      "totals": {
+        "kcal": 520,
+        "protein_g": 27,
+        "fat_g": 25,
+        "carbs_g": 44
+      }
+    }
+  ],
+  "totals": {
+    "kcal": 520,
+    "protein_g": 27,
+    "fat_g": 25,
+    "carbs_g": 44
+  },
+  "leftover": {
+    "kcal": 2080,
+    "protein_g": 93,
+    "fat_g": 35,
+    "carbs_g": 346
+  },
+  "notes": ""
+}
