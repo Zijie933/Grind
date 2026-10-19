@@ -8,8 +8,63 @@
     "carbs_g": 390
   },
   "bodyweight_kg": null,
-  "trained": false,
-  "workouts": [],
+  "trained": true,
+  "workouts": [
+    {
+      "name": "训练日 A",
+      "time": null,
+      "lifts": [
+        {
+          "exercise": "哑铃卧推",
+          "sets": [
+            { "set": 1, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 2, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 3, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" }
+          ]
+        },
+        {
+          "exercise": "哑铃上斜卧推",
+          "sets": [
+            { "set": 1, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 2, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 3, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" }
+          ]
+        },
+        {
+          "exercise": "单臂哑铃划船",
+          "sets": [
+            { "set": 1, "reps": 12, "weight_kg": null, "rpe": null, "notes": "每侧" },
+            { "set": 2, "reps": 12, "weight_kg": null, "rpe": null, "notes": "每侧" },
+            { "set": 3, "reps": 12, "weight_kg": null, "rpe": null, "notes": "每侧" }
+          ]
+        },
+        {
+          "exercise": "俯身哑铃划船",
+          "sets": [
+            { "set": 1, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 2, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 3, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" }
+          ]
+        },
+        {
+          "exercise": "哑铃推举",
+          "sets": [
+            { "set": 1, "reps": 10, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 2, "reps": 10, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 3, "reps": 10, "weight_kg": null, "rpe": null, "notes": "" }
+          ]
+        },
+        {
+          "exercise": "哑铃侧平举",
+          "sets": [
+            { "set": 1, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" },
+            { "set": 2, "reps": 12, "weight_kg": null, "rpe": null, "notes": "" }
+          ]
+        }
+      ],
+      "notes": "哑铃；重量未记"
+    }
+  ],
   "meals": [
     {
       "id": "breakfast",
@@ -146,19 +201,51 @@
         "fat_g": 29,
         "carbs_g": 125
       }
+    },
+    {
+      "id": "evening-snack",
+      "name": "晚上加餐",
+      "time": null,
+      "source": "text-estimate",
+      "photos_in_chat": false,
+      "leftover_note": "训练后吃完；欧包按包装标签净含量 85 g 计",
+      "items": [
+        {
+          "food": "香蕉",
+          "amount": "×1",
+          "kcal": 105,
+          "protein_g": 1,
+          "fat_g": 0,
+          "carbs_g": 26
+        },
+        {
+          "food": "碧翠园 咸蛋黄肉松软欧包",
+          "amount": "净含量 85 g",
+          "kcal": 280,
+          "protein_g": 8.3,
+          "fat_g": 6.5,
+          "carbs_g": 45.2
+        }
+      ],
+      "totals": {
+        "kcal": 385,
+        "protein_g": 9.3,
+        "fat_g": 6.5,
+        "carbs_g": 71.2
+      }
     }
   ],
   "totals": {
-    "kcal": 2286,
-    "protein_g": 122,
-    "fat_g": 98,
-    "carbs_g": 233
+    "kcal": 2671,
+    "protein_g": 131.3,
+    "fat_g": 104.5,
+    "carbs_g": 304.2
   },
   "leftover": {
-    "kcal": 314,
-    "protein_g": -2,
-    "fat_g": -38,
-    "carbs_g": 157
+    "kcal": -71,
+    "protein_g": -11.3,
+    "fat_g": -44.5,
+    "carbs_g": 85.8
   },
   "notes": ""
 }
