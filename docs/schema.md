@@ -5,7 +5,7 @@
 
 照片不进 git。餐次照片在聊天里发，仓库只存估算后的热量和宏量营养素。
 
-档案和当前目标：`data/profile.json`、`data/targets.json`（从 2026-10-20 起：2400 kcal / 蛋白 120 g / 脂肪 60 g / 碳水 345 g）。2600 kcal / 碳水 390 g 是年龄和活动量未知时的旧估算；2026-10-19 及更早的日记录仍用当天快照，不回写。当前训练计划（尚未设定，不是日记录）：[data/training-plan.md](../data/training-plan.md)。当前蛋白粉：[data/supplements.json](../data/supplements.json)。
+档案和当前目标：`data/profile.json`、`data/targets.json`（从 2026-10-20 起：2400 kcal / 蛋白 120 g / 脂肪 60 g / 碳水 345 g）。2600 kcal / 碳水 390 g 是年龄和活动量未知时的旧估算；2026-10-19 及更早的日记录仍用当天快照，不回写。当前训练计划（两日哑铃，一周 2–3 次，不是日记录）：[data/training-plan.md](../data/training-plan.md)。当前蛋白粉：[data/supplements.json](../data/supplements.json)。
 
 新的一天：复制 `data/day.template.json` 为 `data/days/YYYY-MM-DD.json`，改 `date`，按下面字段填。改餐次或组数后，重算 `totals` 和 `leftover`（`leftover = targets - totals`，可吃超成为负数）。
 
