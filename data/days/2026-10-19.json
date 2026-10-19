@@ -49,60 +49,60 @@
       "time": null,
       "source": "chat-photo-estimate",
       "photos_in_chat": true,
-      "leftover_note": "菜盘吃完，米饭剩约 45%（碗里剩约 80–100 g，不计入）",
+      "leftover_note": "盘油未计；米饭碗起约 175 g，剩约 75–90 g，实吃约 100 g 熟重",
       "items": [
         {
           "food": "凉瓜炒蛋",
-          "amount": "一碟（吃完）",
-          "kcal": 270,
-          "protein_g": 17,
-          "fat_g": 20,
-          "carbs_g": 6
+          "amount": "2 蛋 + 苦瓜约 70 g，油实吃约 8 g（盘油未计）",
+          "kcal": 225,
+          "protein_g": 14,
+          "fat_g": 17,
+          "carbs_g": 4
         },
         {
           "food": "金汤鱼块",
-          "amount": "2 块 + 少量青菜（吃完）",
-          "kcal": 130,
-          "protein_g": 14,
+          "amount": "2 块偏小，可食约 80 g + 少量汁",
+          "kcal": 120,
+          "protein_g": 13,
           "fat_g": 7,
           "carbs_g": 2
         },
         {
           "food": "葱炒牛肉",
-          "amount": "一碟（吃完）",
-          "kcal": 240,
+          "amount": "熟牛肉约 90 g，油实吃约 8 g",
+          "kcal": 205,
           "protein_g": 19,
-          "fat_g": 16,
-          "carbs_g": 6
+          "fat_g": 12,
+          "carbs_g": 5
         },
         {
           "food": "白米饭",
-          "amount": "约 110 g 熟重（已扣剩余，碗里剩约 80–100 g）",
-          "kcal": 130,
+          "amount": "约 100 g 熟重（碗起约 175 g，剩约 75–90 g）",
+          "kcal": 116,
           "protein_g": 3,
           "fat_g": 0,
-          "carbs_g": 29
+          "carbs_g": 26
         }
       ],
       "totals": {
-        "kcal": 770,
-        "protein_g": 53,
-        "fat_g": 43,
-        "carbs_g": 43
+        "kcal": 666,
+        "protein_g": 49,
+        "fat_g": 36,
+        "carbs_g": 37
       }
     }
   ],
   "totals": {
-    "kcal": 1290,
-    "protein_g": 80,
-    "fat_g": 68,
-    "carbs_g": 87
+    "kcal": 1186,
+    "protein_g": 76,
+    "fat_g": 61,
+    "carbs_g": 81
   },
   "leftover": {
-    "kcal": 1310,
-    "protein_g": 40,
-    "fat_g": -8,
-    "carbs_g": 303
+    "kcal": 1414,
+    "protein_g": 44,
+    "fat_g": -1,
+    "carbs_g": 309
   },
   "notes": ""
 }
