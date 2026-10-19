@@ -146,51 +146,19 @@
         "fat_g": 29,
         "carbs_g": 125
       }
-    },
-    {
-      "id": "evening-snack",
-      "name": "晚上加餐",
-      "time": null,
-      "source": "text-estimate",
-      "photos_in_chat": false,
-      "leftover_note": "吃完；欧包按包装标签净含量 85 g 计",
-      "items": [
-        {
-          "food": "香蕉",
-          "amount": "×1",
-          "kcal": 105,
-          "protein_g": 1,
-          "fat_g": 0,
-          "carbs_g": 26
-        },
-        {
-          "food": "碧翠园 咸蛋黄肉松软欧包",
-          "amount": "净含量 85 g",
-          "kcal": 280,
-          "protein_g": 8.3,
-          "fat_g": 6.5,
-          "carbs_g": 45.2
-        }
-      ],
-      "totals": {
-        "kcal": 385,
-        "protein_g": 9.3,
-        "fat_g": 6.5,
-        "carbs_g": 71.2
-      }
     }
   ],
   "totals": {
-    "kcal": 2671,
-    "protein_g": 131.3,
-    "fat_g": 104.5,
-    "carbs_g": 304.2
+    "kcal": 2286,
+    "protein_g": 122,
+    "fat_g": 98,
+    "carbs_g": 233
   },
   "leftover": {
-    "kcal": -71,
-    "protein_g": -11.3,
-    "fat_g": -44.5,
-    "carbs_g": 85.8
+    "kcal": 314,
+    "protein_g": -2,
+    "fat_g": -38,
+    "carbs_g": 157
   },
   "notes": ""
 }
