@@ -1,7 +1,8 @@
 {
-  "kcal": 2600,
+  "kcal": 2400,
   "protein_g": 120,
   "fat_g": 60,
-  "carbs_g": 390,
-  "provisional": true
+  "carbs_g": 345,
+  "effective_from": "2026-10-20",
+  "note": "2600 kcal / 390 g carbs was the previous estimate, before age and activity were known."
 }

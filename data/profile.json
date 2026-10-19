@@ -1,6 +1,10 @@
 {
   "sex": "male",
+  "age": 21,
   "height_cm": 166.5,
   "weight_kg": 58,
+  "occupation": "programmer",
+  "activity": "mostly sedentary",
+  "resistance_training_days_per_week": "2-3",
   "goal": "增肌"
 }

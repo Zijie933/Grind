@@ -2,10 +2,10 @@
   "schema_version": 1,
   "date": "YYYY-MM-DD",
   "targets": {
-    "kcal": 2600,
+    "kcal": 2400,
     "protein_g": 120,
     "fat_g": 60,
-    "carbs_g": 390
+    "carbs_g": 345
   },
   "bodyweight_kg": null,
   "trained": false,
@@ -18,10 +18,10 @@
     "carbs_g": 0
   },
   "leftover": {
-    "kcal": 2600,
+    "kcal": 2400,
     "protein_g": 120,
     "fat_g": 60,
-    "carbs_g": 390
+    "carbs_g": 345
   },
   "notes": ""
 }
