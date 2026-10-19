@@ -146,19 +146,51 @@
         "fat_g": 29,
         "carbs_g": 125
       }
+    },
+    {
+      "id": "evening-snack",
+      "name": "晚上加餐",
+      "time": null,
+      "source": "text-estimate",
+      "photos_in_chat": false,
+      "leftover_note": "吃完",
+      "items": [
+        {
+          "food": "香蕉",
+          "amount": "×1",
+          "kcal": 105,
+          "protein_g": 1,
+          "fat_g": 0,
+          "carbs_g": 26
+        },
+        {
+          "food": "碧翠园 咸蛋黄肉松软欧包",
+          "amount": "约 100 g",
+          "kcal": 281,
+          "protein_g": 12,
+          "fat_g": 5,
+          "carbs_g": 44
+        }
+      ],
+      "totals": {
+        "kcal": 386,
+        "protein_g": 13,
+        "fat_g": 5,
+        "carbs_g": 70
+      }
     }
   ],
   "totals": {
-    "kcal": 2286,
-    "protein_g": 122,
-    "fat_g": 98,
-    "carbs_g": 233
+    "kcal": 2672,
+    "protein_g": 135,
+    "fat_g": 103,
+    "carbs_g": 303
   },
   "leftover": {
-    "kcal": 314,
-    "protein_g": -2,
-    "fat_g": -38,
-    "carbs_g": 157
+    "kcal": -72,
+    "protein_g": -15,
+    "fat_g": -43,
+    "carbs_g": 87
   },
   "notes": ""
 }
