@@ -114,19 +114,51 @@
         "fat_g": 8,
         "carbs_g": 27
       }
+    },
+    {
+      "id": "dinner",
+      "name": "晚餐",
+      "time": null,
+      "source": "chat-photo-estimate",
+      "photos_in_chat": true,
+      "leftover_note": "老友粉：面和配菜（血旺/酸笋/青菜）约 85%，牛肉全吃，汤未喝（汤里辣椒油未计；面上吸油约 8 g 计入）；锅贴全吃",
+      "items": [
+        {
+          "food": "牛肉老友粉",
+          "amount": "面+血旺/酸笋/青菜约 85%；熟牛肉约 90 g 全吃（份量接近午饭牛肉）；汤未喝（汤里辣椒油未计；面上吸油约 8 g）",
+          "kcal": 610,
+          "protein_g": 30,
+          "fat_g": 13,
+          "carbs_g": 93
+        },
+        {
+          "food": "韭菜猪肉锅贴",
+          "amount": "4 个，全吃",
+          "kcal": 300,
+          "protein_g": 14,
+          "fat_g": 16,
+          "carbs_g": 32
+        }
+      ],
+      "totals": {
+        "kcal": 910,
+        "protein_g": 44,
+        "fat_g": 29,
+        "carbs_g": 125
+      }
     }
   ],
   "totals": {
-    "kcal": 1376,
-    "protein_g": 78,
-    "fat_g": 69,
-    "carbs_g": 108
+    "kcal": 2286,
+    "protein_g": 122,
+    "fat_g": 98,
+    "carbs_g": 233
   },
   "leftover": {
-    "kcal": 1224,
-    "protein_g": 42,
-    "fat_g": -9,
-    "carbs_g": 282
+    "kcal": 314,
+    "protein_g": -2,
+    "fat_g": -38,
+    "carbs_g": 157
   },
   "notes": ""
 }
