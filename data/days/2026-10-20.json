@@ -17,7 +17,7 @@
       "time": null,
       "source": "chat-photo-estimate",
       "photos_in_chat": true,
-      "leftover_note": "蛋黄没吃不计；无糖豆浆喝了一半（约 160 ml）；糯米鸡可食约 180 g，吃了约 90%（约 162 g）；包子实吃约 90%",
+      "leftover_note": "蛋黄没吃不计；无糖豆浆喝了一半（约 160 ml）；糯米鸡普通巴掌大小，可食约 120 g，吃了约 90%（约 108 g）；包子实吃约 90%",
       "items": [
         {
           "food": "鸡蛋蛋白",
@@ -37,11 +37,11 @@
         },
         {
           "food": "糯米鸡",
-          "amount": "可食约 180 g，吃了约 90%（约 162 g）；按每 100 g 约 210 kcal / 蛋白 7.6 g / 脂肪 6.7 g / 碳水 30 g",
-          "kcal": 340,
-          "protein_g": 12,
-          "fat_g": 11,
-          "carbs_g": 49
+          "amount": "普通巴掌大小，可食约 120 g，吃了约 90%（约 108 g）；按每 100 g 约 210 kcal / 蛋白 7.6 g / 脂肪 6.7 g / 碳水 30 g",
+          "kcal": 230,
+          "protein_g": 8,
+          "fat_g": 7,
+          "carbs_g": 32
         },
         {
           "food": "包子",
@@ -61,24 +61,24 @@
         }
       ],
       "totals": {
-        "kcal": 756,
-        "protein_g": 36,
-        "fat_g": 22,
-        "carbs_g": 100
+        "kcal": 646,
+        "protein_g": 32,
+        "fat_g": 18,
+        "carbs_g": 83
       }
     }
   ],
   "totals": {
-    "kcal": 756,
-    "protein_g": 36,
-    "fat_g": 22,
-    "carbs_g": 100
+    "kcal": 646,
+    "protein_g": 32,
+    "fat_g": 18,
+    "carbs_g": 83
   },
   "leftover": {
-    "kcal": 1644,
-    "protein_g": 84,
-    "fat_g": 38,
-    "carbs_g": 245
+    "kcal": 1754,
+    "protein_g": 88,
+    "fat_g": 42,
+    "carbs_g": 262
   },
   "notes": ""
 }
