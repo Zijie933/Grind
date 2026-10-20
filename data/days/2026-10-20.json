@@ -17,7 +17,7 @@
       "time": null,
       "source": "chat-photo-estimate",
       "photos_in_chat": true,
-      "leftover_note": "蛋黄没吃不计；豆浆喝了一半（约 160 ml）；糯米鸡可食约 180 g，吃了约 90%（约 162 g）；包子实吃约 90%",
+      "leftover_note": "蛋黄没吃不计；无糖豆浆喝了一半（约 160 ml）；糯米鸡可食约 180 g，吃了约 90%（约 162 g）；包子实吃约 90%",
       "items": [
         {
           "food": "鸡蛋蛋白",
@@ -28,12 +28,12 @@
           "carbs_g": 0
         },
         {
-          "food": "豆浆",
+          "food": "无糖豆浆",
           "amount": "喝了一半，约 160 ml",
-          "kcal": 70,
+          "kcal": 50,
           "protein_g": 5,
           "fat_g": 2,
-          "carbs_g": 6
+          "carbs_g": 2
         },
         {
           "food": "糯米鸡",
@@ -61,24 +61,24 @@
         }
       ],
       "totals": {
-        "kcal": 776,
+        "kcal": 756,
         "protein_g": 36,
         "fat_g": 22,
-        "carbs_g": 104
+        "carbs_g": 100
       }
     }
   ],
   "totals": {
-    "kcal": 776,
+    "kcal": 756,
     "protein_g": 36,
     "fat_g": 22,
-    "carbs_g": 104
+    "carbs_g": 100
   },
   "leftover": {
-    "kcal": 1624,
+    "kcal": 1644,
     "protein_g": 84,
     "fat_g": 38,
-    "carbs_g": 241
+    "carbs_g": 245
   },
   "notes": ""
 }
