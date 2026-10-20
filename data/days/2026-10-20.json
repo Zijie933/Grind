@@ -17,7 +17,7 @@
       "time": null,
       "source": "chat-photo-estimate",
       "photos_in_chat": true,
-      "leftover_note": "蛋黄没吃不计；豆浆喝了一半（约 160 ml）；糯米粽叶子里约剩 1/4 米饭不计入；包子实吃约 90%",
+      "leftover_note": "蛋黄没吃不计；豆浆喝了一半（约 160 ml）；糯米鸡可食约 180 g，吃了约 90%（约 162 g）；包子实吃约 90%",
       "items": [
         {
           "food": "鸡蛋蛋白",
@@ -36,12 +36,12 @@
           "carbs_g": 6
         },
         {
-          "food": "糯米粽",
-          "amount": "实吃约 120 g（叶子里大约还剩 1/4 米饭，不计入）",
-          "kcal": 200,
-          "protein_g": 4,
-          "fat_g": 1,
-          "carbs_g": 44
+          "food": "糯米鸡",
+          "amount": "可食约 180 g，吃了约 90%（约 162 g）；按每 100 g 约 210 kcal / 蛋白 7.6 g / 脂肪 6.7 g / 碳水 30 g",
+          "kcal": 340,
+          "protein_g": 12,
+          "fat_g": 11,
+          "carbs_g": 49
         },
         {
           "food": "包子",
@@ -61,24 +61,24 @@
         }
       ],
       "totals": {
-        "kcal": 636,
-        "protein_g": 28,
-        "fat_g": 12,
-        "carbs_g": 99
+        "kcal": 776,
+        "protein_g": 36,
+        "fat_g": 22,
+        "carbs_g": 104
       }
     }
   ],
   "totals": {
-    "kcal": 636,
-    "protein_g": 28,
-    "fat_g": 12,
-    "carbs_g": 99
+    "kcal": 776,
+    "protein_g": 36,
+    "fat_g": 22,
+    "carbs_g": 104
   },
   "leftover": {
-    "kcal": 1764,
-    "protein_g": 92,
-    "fat_g": 48,
-    "carbs_g": 246
+    "kcal": 1624,
+    "protein_g": 84,
+    "fat_g": 38,
+    "carbs_g": 241
   },
   "notes": ""
 }
